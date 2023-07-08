@@ -1,0 +1,13 @@
+body{
+    margin:0;
+    padding: 0;
+}
+
+#element{
+    width: 60px;
+    height: 60px;
+    background: linear-gradient(141deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    border-radius: 1rem 1rem 1rem 1rem;
+    position: absolute;
+    box-shadow: 0 0 10px 2px rgb(255, 106, 106);
+}
